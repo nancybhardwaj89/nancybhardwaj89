@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/nancybhardwaj89">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Continuously%20learning%2C%20continuously%20improving%20software%20quality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Learning%2C%20Automating%20and%20Strengthening%20Software%20Quality" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -33,11 +33,11 @@
 
 
 
-💼 **13+ **
+💼 **13+ years of experience in Software Quality Assurance**
 
 🔭 Currently working on **[PlaywrightConcepts](https://github.com/nancybhardwaj89/PlaywrightConcepts)**
 
-🌱 Currently learning **Playwright, TypeScript**
+🌱 Currently learning **Expanding expertise in automation and AI quality engineering**
 
 💬 Ask me about **Test Automation using Playwright, GenAI & AI Chatbot Testing, AI Hallucination Detection & Risk Analysis, Automation Framework Design & Best Practices, Web & API Testing , Test Strategy, Defect Analysis & Quality Metrics**
 
