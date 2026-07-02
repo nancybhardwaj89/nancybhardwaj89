@@ -42,25 +42,59 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="28" height="28" /> Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/nancybhardwaj89/AITestCaseGenerator-Jira-Claude-Anthropic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nancybhardwaj89&repo=AITestCaseGenerator-Jira-Claude-Anthropic&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AI Test Case Generator"/></a>
-<a href="https://github.com/nancybhardwaj89/AIAgents_n8n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nancybhardwaj89&repo=AIAgents_n8n&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AI QA Agents n8n"/></a>
-<a href="https://github.com/nancybhardwaj89/PlaywrightConcepts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nancybhardwaj89&repo=PlaywrightConcepts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PlaywrightConcepts"/></a>
-<a href="https://github.com/nancybhardwaj89/SwagLabsUIFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nancybhardwaj89&repo=SwagLabsUIFramework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SwagLabsUIFramework"/></a>
-<a href="https://github.com/nancybhardwaj89/APIFramework---RestAssured"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nancybhardwaj89&repo=APIFramework---RestAssured&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="APIFramework RestAssured"/></a>
+### 🤖 [AI Test Case Generator](https://github.com/nancybhardwaj89/AITestCaseGenerator-Jira-Claude-Anthropic)
+Pulls requirements from Jira and uses the Anthropic API to auto-generate structured test cases — reduces manual test design effort by **70–80%**.
 
-</div>
+`Python` `Anthropic API` `Jira API`
 
-| Project | What it does | Stack |
-|---|---|---|
-| [AI Test Case Generator](https://github.com/nancybhardwaj89/AITestCaseGenerator-Jira-Claude-Anthropic) | Pulls requirements from Jira, uses the Anthropic API to auto-generate structured test cases — reduces manual test design effort by 70–80% | Python · Anthropic API · Jira API |
-| [AI QA Agents (n8n)](https://github.com/nancybhardwaj89/AIAgents_n8n) | STLC and test-automation agent workflows built on n8n with Groq/LLM integration | n8n · Groq · LLM Agents |
-| [Playwright + TypeScript Framework](https://github.com/nancybhardwaj89/PlaywrightConcepts) | End-to-end UI automation framework using Page Object Model — reduces testing cycles by ~70% | Playwright · TypeScript |
-| [Swag Labs UI Framework](https://github.com/nancybhardwaj89/SwagLabsUIFramework) | E-commerce UI automation suite covering login, cart, and checkout flows | Playwright · TypeScript |
-| [API Test Framework (Rest Assured)](https://github.com/nancybhardwaj89/APIFramework---RestAssured) | API automation framework with reusable request builders and schema validation | Java · Rest Assured · TestNG |
+</td>
+<td width="50%" valign="top">
 
-> 💡 **Tip:** add a one-line description to each of these repos on GitHub (Settings → repo → About) — the pin cards above pull that text automatically, and right now several show "No description."
+### 🧠 [AI QA Agents (n8n)](https://github.com/nancybhardwaj89/AIAgents_n8n)
+STLC and test-automation agent workflows built on n8n with Groq/LLM integration.
+
+`n8n` `Groq` `LLM Agents`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 [Playwright + TypeScript Framework](https://github.com/nancybhardwaj89/PlaywrightConcepts)
+End-to-end UI automation framework using Page Object Model — reduces testing cycles by **~70%**.
+
+`Playwright` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [Swag Labs UI Framework](https://github.com/nancybhardwaj89/SwagLabsUIFramework)
+E-commerce UI automation suite covering login, cart, and checkout flows.
+
+`Playwright` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [API Test Framework (Rest Assured)](https://github.com/nancybhardwaj89/APIFramework---RestAssured)
+API automation framework with reusable request builders and schema validation.
+
+`Java` `Rest Assured` `TestNG`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+> 💡 **Tip:** add a one-line description to each of these repos on GitHub (Settings → repo → About) so it shows up if you ever add pin cards back in.
 
 ---
 
