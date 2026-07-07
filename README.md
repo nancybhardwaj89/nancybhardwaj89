@@ -46,12 +46,22 @@
 <tr>
 <td width="50%" valign="top">
 
+### 📚 [RAG Pipeline (n8n + Pinecone + Groq)](https://github.com/nancybhardwaj89/n8n-rag-pipeline-pinecone-groq)
+A two-phase Retrieval-Augmented Generation system built in n8n — document ingestion (chunking, embedding, vector storage) and a conversational retrieval agent with chat memory, powered by Groq's Llama 3.1 8B and Pinecone.
+
+`n8n` `RAG` `Pinecone` `Groq` `OpenAI Embeddings`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎫 [AI IT Support Triage Agent](https://github.com/nancybhardwaj89/AIAgent-IT-Support-Triage-multi-agent-n8n)
 A multi-agent n8n workflow that classifies IT support tickets, auto-drafts responses for low-risk requests, and routes uncertain or high-impact tickets to a human via Slack for approval — with full observability logging to Google Sheets.
 
 `n8n` `Groq` `AI Agents` `Human-in-the-Loop`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [AI Test Case Generator](https://github.com/nancybhardwaj89/AITestCaseGenerator-Jira-Claude-Anthropic)
@@ -60,8 +70,6 @@ Pulls requirements from Jira and uses the Anthropic API to auto-generate structu
 `Python` `Anthropic API` `Jira API`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [AI QA Agents (n8n)](https://github.com/nancybhardwaj89/AIAgents_n8n)
@@ -70,6 +78,8 @@ STLC and test-automation agent workflows built on n8n with Groq/LLM integration.
 `n8n` `Groq` `LLM Agents`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎭 [Playwright + TypeScript Framework](https://github.com/nancybhardwaj89/PlaywrightConcepts)
@@ -78,8 +88,6 @@ End-to-end UI automation framework using Page Object Model — reduces testing c
 `Playwright` `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [Swag Labs UI Framework](https://github.com/nancybhardwaj89/SwagLabsUIFramework)
@@ -88,22 +96,14 @@ E-commerce UI automation suite covering login, cart, and checkout flows.
 `Playwright` `TypeScript`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔗 [API Test Framework (Rest Assured)](https://github.com/nancybhardwaj89/APIFramework---RestAssured)
 API automation framework with reusable request builders and schema validation.
 
 `Java` `Rest Assured` `TestNG`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [RAG Pipeline (n8n + Pinecone + Groq)](https://github.com/nancybhardwaj89/n8n-rag-pipeline-pinecone-groq)
-A two-phase Retrieval-Augmented Generation system built in n8n — document ingestion (chunking, embedding, vector storage) and a conversational retrieval agent with chat memory, powered by Groq's Llama 3.1 8B and Pinecone.
-
-`n8n` `RAG` `Pinecone` `Groq` `OpenAI Embeddings`
 
 </td>
 <td width="50%" valign="top">
