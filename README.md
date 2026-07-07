@@ -97,6 +97,19 @@ API automation framework with reusable request builders and schema validation.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [RAG Pipeline (n8n + Pinecone + Groq)](https://github.com/nancybhardwaj89/n8n-rag-pipeline-pinecone-groq)
+A two-phase Retrieval-Augmented Generation system built in n8n — document ingestion (chunking, embedding, vector storage) and a conversational retrieval agent with chat memory, powered by Groq's Llama 3.1 8B and Pinecone.
+
+`n8n` `RAG` `Pinecone` `Groq` `OpenAI Embeddings`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 > 💡 **Tip:** add a one-line description to each of these repos on GitHub (Settings → repo → About) so it shows up if you ever add pin cards back in.
