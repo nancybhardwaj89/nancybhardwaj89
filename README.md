@@ -14,6 +14,7 @@
 <p>
 <a href="https://www.linkedin.com/in/nancy-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@er.nancybhardwaj"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://topmate.io/nancy_bhardwaj"><img src="https://img.shields.io/badge/Topmate-FF6B4A?style=for-the-badge" alt="Topmate"/></a>
 <a href="mailto:er.nancybhardwaj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=nancybhardwaj89&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
@@ -46,12 +47,22 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🧾 [SprintReadyAI - QA Refinement Copilot](https://github.com/nancybhardwaj89/SprintReadyAI-QARefinementCopilot)
+Production-ready n8n AI agent that reviews Jira stories for QA refinement readiness — fetches ticket details, generates a structured 14-section QA report (readiness score, gaps, test scenarios, clarification questions), and posts it straight to Slack. Includes a Promptfoo evaluation suite for regression-testing the agent's scoring consistency.
+
+`n8n` `OpenAI` `Jira API` `Slack API` `Promptfoo` `AI Agents`
+
+</td>
+<td width="50%" valign="top">
+
 ### 💬 [RAG Chat UI (Vite + React + n8n)](https://github.com/nancybhardwaj89/RagPipeline-UploadDoc-Chat-UI)
 A deployed React frontend (Vite, hosted on Vercel) for a document-upload-and-chat interface powered by an n8n RAG pipeline — built as a public, end-to-end portfolio piece demonstrating real deployment work (env var config, iframe integration, production build troubleshooting).
 
 `React` `Vite` `Vercel` `n8n` `RAG`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 [RAG Pipeline (n8n + Pinecone + Groq)](https://github.com/nancybhardwaj89/n8n-rag-pipeline-pinecone-groq)
@@ -60,8 +71,6 @@ A two-phase Retrieval-Augmented Generation system built in n8n — document inge
 `n8n` `RAG` `Pinecone` `Groq` `OpenAI Embeddings`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎫 [AI IT Support Triage Agent](https://github.com/nancybhardwaj89/AIAgent-IT-Support-Triage-multi-agent-n8n)
@@ -70,6 +79,8 @@ A multi-agent n8n workflow that classifies IT support tickets, auto-drafts respo
 `n8n` `Groq` `AI Agents` `Human-in-the-Loop`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [AI Test Case Generator](https://github.com/nancybhardwaj89/AITestCaseGenerator-Jira-Claude-Anthropic)
@@ -78,8 +89,6 @@ Pulls requirements from Jira and uses the Anthropic API to auto-generate structu
 `Python` `Anthropic API` `Jira API`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [AI QA Agents (n8n)](https://github.com/nancybhardwaj89/AIAgents_n8n)
@@ -88,6 +97,8 @@ STLC and test-automation agent workflows built on n8n with Groq/LLM integration.
 `n8n` `Groq` `LLM Agents`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎭 [Playwright + TypeScript Framework](https://github.com/nancybhardwaj89/PlaywrightConcepts)
@@ -96,8 +107,6 @@ End-to-end UI automation framework using Page Object Model — reduces testing c
 `Playwright` `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [Swag Labs UI Framework](https://github.com/nancybhardwaj89/SwagLabsUIFramework)
@@ -106,12 +115,17 @@ E-commerce UI automation suite covering login, cart, and checkout flows.
 `Playwright` `TypeScript`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔗 [API Test Framework (Rest Assured)](https://github.com/nancybhardwaj89/APIFramework---RestAssured)
 API automation framework with reusable request builders and schema validation.
 
 `Java` `Rest Assured` `TestNG`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -292,6 +306,7 @@ Years Active
 
 <a href="https://www.linkedin.com/in/nancy-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@er.nancybhardwaj"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://topmate.io/nancy_bhardwaj"><img src="https://img.shields.io/badge/Topmate-FF6B4A?style=for-the-badge" alt="Topmate"/></a>
 <a href="mailto:er.nancybhardwaj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
