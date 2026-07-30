@@ -47,12 +47,22 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🧭 [TestCase Compass - Advanced RAG Assistant](https://github.com/nancybhardwaj89/TestCaseCompass-AdvancedRAGAssistant)
+An advanced RAG pipeline built in Langflow to retrieve from a repository of 5,000+ test cases — combining HyDE query generation, semantic search (ChromaDB + Mistral embeddings), NVIDIA reranking, parent-document retrieval for full test-case context, and contextual compression before generating grounded answers with Groq.
+
+`Langflow` `ChromaDB` `Mistral Embeddings` `NVIDIA Rerank` `HyDE` `Groq` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔎 [RAG Pipeline for E-commerce Test Cases](https://github.com/nancybhardwaj89/RAGPipeline-EcommerceTestCases)
 A Retrieval-Augmented Generation assistant built in Langflow that searches an e-commerce test-case repository and returns grounded, natural-language answers — using ChromaDB for vector storage, Mistral embeddings, and Groq's Llama 3.1 8B for generation. Includes a dedicated test suite covering positive retrieval, hallucination prevention, and prompt-injection resistance.
 
 `Langflow` `ChromaDB` `Mistral Embeddings` `Groq` `RAG`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧾 [SprintReadyAI - QA Refinement Copilot](https://github.com/nancybhardwaj89/SprintReadyAI-QARefinementCopilot)
@@ -61,8 +71,6 @@ Production-ready n8n AI agent that reviews Jira stories for QA refinement readin
 `n8n` `OpenAI` `Jira API` `Slack API` `Promptfoo` `AI Agents`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 [RAG Chat UI (Vite + React + n8n)](https://github.com/nancybhardwaj89/RagPipeline-UploadDoc-Chat-UI)
@@ -71,6 +79,8 @@ A deployed React frontend (Vite, hosted on Vercel) for a document-upload-and-cha
 `React` `Vite` `Vercel` `n8n` `RAG`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 [RAG Pipeline (n8n + Pinecone + Groq)](https://github.com/nancybhardwaj89/n8n-rag-pipeline-pinecone-groq)
@@ -79,8 +89,6 @@ A two-phase Retrieval-Augmented Generation system built in n8n — document inge
 `n8n` `RAG` `Pinecone` `Groq` `OpenAI Embeddings`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎫 [AI IT Support Triage Agent](https://github.com/nancybhardwaj89/AIAgent-IT-Support-Triage-multi-agent-n8n)
@@ -89,6 +97,8 @@ A multi-agent n8n workflow that classifies IT support tickets, auto-drafts respo
 `n8n` `Groq` `AI Agents` `Human-in-the-Loop`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [AI Test Case Generator](https://github.com/nancybhardwaj89/AITestCaseGenerator-Jira-Claude-Anthropic)
@@ -97,8 +107,6 @@ Pulls requirements from Jira and uses the Anthropic API to auto-generate structu
 `Python` `Anthropic API` `Jira API`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [AI QA Agents (n8n)](https://github.com/nancybhardwaj89/AIAgents_n8n)
@@ -107,6 +115,8 @@ STLC and test-automation agent workflows built on n8n with Groq/LLM integration.
 `n8n` `Groq` `LLM Agents`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎭 [Playwright + TypeScript Framework](https://github.com/nancybhardwaj89/PlaywrightConcepts)
@@ -115,17 +125,12 @@ End-to-end UI automation framework using Page Object Model — reduces testing c
 `Playwright` `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [Swag Labs UI Framework](https://github.com/nancybhardwaj89/SwagLabsUIFramework)
 E-commerce UI automation suite covering login, cart, and checkout flows.
 
 `Playwright` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
