@@ -58,7 +58,7 @@ An advanced RAG pipeline built in Langflow to retrieve from a repository of 5,00
 ### 🔎 [RAG Pipeline for E-commerce Test Cases](https://github.com/nancybhardwaj89/RAGPipeline-EcommerceTestCases)
 A Retrieval-Augmented Generation assistant built in Langflow that searches an e-commerce test-case repository and returns grounded, natural-language answers — using ChromaDB for vector storage, Mistral embeddings, and Groq's Llama 3.1 8B for generation. Includes a dedicated test suite covering positive retrieval, hallucination prevention, and prompt-injection resistance.
 
-`Langflow` `ChromaDB` `Mistral Embeddings` `Groq` `RAG`
+`Langflow` `ChromaDB` `Mistral Embeddings` `Groq` `RAG` `RAGAS`
 
 </td>
 </tr>
