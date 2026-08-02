@@ -50,7 +50,7 @@
 ### 🧭 [TestCase Compass - Advanced RAG Assistant](https://github.com/nancybhardwaj89/TestCaseCompass-AdvancedRAGAssistant)
 An advanced RAG pipeline built in Langflow to retrieve from a repository of 5,000+ test cases — combining HyDE query generation, semantic search (ChromaDB + Mistral embeddings), NVIDIA reranking, parent-document retrieval for full test-case context, and contextual compression before generating grounded answers with Groq.
 
-`Langflow` `ChromaDB` `Mistral Embeddings` `NVIDIA Rerank` `HyDE` `Groq` `RAG`
+`Langflow` `ChromaDB` `Mistral Embeddings` `NVIDIA Rerank` `HyDE` `Groq` `RAG` `RAGAS`
 
 </td>
 <td width="50%" valign="top">
@@ -58,8 +58,7 @@ An advanced RAG pipeline built in Langflow to retrieve from a repository of 5,00
 ### 🔎 [RAG Pipeline for E-commerce Test Cases](https://github.com/nancybhardwaj89/RAGPipeline-EcommerceTestCases)
 A Retrieval-Augmented Generation assistant built in Langflow that searches an e-commerce test-case repository and returns grounded, natural-language answers — using ChromaDB for vector storage, Mistral embeddings, and Groq's Llama 3.1 8B for generation. Includes a dedicated test suite covering positive retrieval, hallucination prevention, and prompt-injection resistance.
 
-`Langflow` `ChromaDB` `Mistral Embeddings` `Groq` `RAG` `RAGAS`
-
+`Langflow` `ChromaDB` `Mistral Embeddings` `Groq` `RAG` 
 </td>
 </tr>
 <tr>
