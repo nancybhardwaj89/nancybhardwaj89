@@ -29,7 +29,7 @@
 
 🤖 I build **AI-powered QA tooling** — from an AI Test Case Generator (Jira + Claude + Anthropic API) to autonomous QA agents in n8n — cutting manual test effort by 70–80%.
 
-🔭 Currently building a **Flaky Test Analyzer** using LangFlow, and exploring agentic AI for test strategy.
+🔭 Currently building hands-on expertise in AI evaluation frameworks, RAG evaluation, and Agentic AI testing.
 
 🎓 **ISTQB Certified** | Scrum Fundamentals | Postman Student Expert
 
