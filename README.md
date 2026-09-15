@@ -146,65 +146,49 @@ E-commerce UI automation suite covering login, cart, and checkout flows.
 <tr>
 <td valign="top" width="50%">
 
-<h3 align="center">🤖 AI & Gen AI Testing</h3>
+<h3 align="center">🤖 AI-Augmented QA & Agentic Automation</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge" alt="agenticai"/>
-<img src="https://img.shields.io/badge/AI_Agents-4B0082?style=for-the-badge" alt="aiagents"/>
+<img src="https://img.shields.io/badge/AI_Agent_Design_%26_Orchestration-4B0082?style=for-the-badge" alt="aiagentdesign"/>
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-4B0082?style=for-the-badge" alt="multiagent"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/LangFlow-1C3C3C?style=for-the-badge" alt="langflow"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="mcp"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge" alt="promptengineering"/>
-<img src="https://img.shields.io/badge/AI_Chatbot_Testing-6A5ACD?style=for-the-badge" alt="chatbottesting"/>
-<img src="https://img.shields.io/badge/LLM_Testing-6A5ACD?style=for-the-badge" alt="llmtesting"/>
-<img src="https://img.shields.io/badge/Prompt_Boundary_Testing-6A5ACD?style=for-the-badge" alt="promptboundary"/>
-<img src="https://img.shields.io/badge/Context_%26_Scope_Validation-6A5ACD?style=for-the-badge" alt="contextvalidation"/>
-<img src="https://img.shields.io/badge/AI_Workflow_Automation-6A5ACD?style=for-the-badge" alt="aiworkflow"/>
-<img src="https://img.shields.io/badge/RAG_Testing-6A5ACD?style=for-the-badge" alt="ragtesting"/>
-<img src="https://img.shields.io/badge/Human--in--the--Loop-6A5ACD?style=for-the-badge" alt="humanintheloop"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="groq"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+<img src="https://img.shields.io/static/v1?label=&message=Advanced%20RAG%20Pipeline&color=6A5ACD&style=for-the-badge" alt="advancedrag"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="chromadb"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="pinecone"/>
+<img src="https://img.shields.io/static/v1?label=&message=Qdrant&color=DC244C&style=for-the-badge" alt="qdrant"/>
+<img src="https://img.shields.io/badge/Human--in--the--Loop_Design-6A5ACD?style=for-the-badge" alt="humanintheloop"/>
 </div>
 
-</td>
-<td valign="top" width="50%">
-
-<h3 align="center">☁️ Salesforce Testing</h3>
+<h3 align="center">🧠 GenAI/LLM Evaluation & Responsible AI Testing</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="salescloud"/>
-<img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="servicecloud"/>
-<img src="https://img.shields.io/badge/Agentforce_Testing-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="agentforce"/>
-<img src="https://img.shields.io/badge/CRM_%26_CPQ_Testing-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="crmcpq"/>
-<img src="https://img.shields.io/badge/Case_Management-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="casemanagement"/>
+<img src="https://img.shields.io/badge/RAGAS-8A2BE2?style=for-the-badge" alt="ragas"/>
+<img src="https://img.shields.io/badge/Promptfoo-8A2BE2?style=for-the-badge" alt="promptfoo"/>
+<img src="https://img.shields.io/badge/DeepEval-8A2BE2?style=for-the-badge" alt="deepeval"/>
+<img src="https://img.shields.io/badge/Faithfulness_%26_Groundedness-6A5ACD?style=for-the-badge" alt="faithfulness"/>
+<img src="https://img.shields.io/badge/Context_Precision_%2F_Recall-6A5ACD?style=for-the-badge" alt="contextprecision"/>
+<img src="https://img.shields.io/static/v1?label=&message=Answer%20Relevance&color=6A5ACD&style=for-the-badge" alt="answerrelevance"/>
+<img src="https://img.shields.io/badge/AI--Agent_Behavior_Validation-6A5ACD?style=for-the-badge" alt="agentbehavior"/>
+<img src="https://img.shields.io/badge/AI_Red_Teaming-B22222?style=for-the-badge" alt="redteaming"/>
 </div>
 
-<h3 align="center">🧭 Testing Expertise</h3>
+<h3 align="center">🧪 Test Automation & Languages</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Functional_Testing-455A64?style=for-the-badge" alt="functional"/>
-<img src="https://img.shields.io/badge/Regression_Testing-455A64?style=for-the-badge" alt="regression"/>
-<img src="https://img.shields.io/badge/Exploratory_Testing-455A64?style=for-the-badge" alt="exploratory"/>
-<img src="https://img.shields.io/badge/Mobile_App_Testing-455A64?style=for-the-badge" alt="mobile"/>
-<img src="https://img.shields.io/badge/Responsive_Testing-455A64?style=for-the-badge" alt="responsive"/>
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-<h3 align="center">🧪 Automation & Languages</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Playwright_(TS)-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
-<img src="https://img.shields.io/badge/Selenium_WebDriver_(Java)-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+<img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
-<h3 align="center">🔌 API & Services</h3>
+<h3 align="center">🔌 API Testing & Services</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" alt="restapi"/>
+<img src="https://img.shields.io/static/v1?label=&message=REST%20API%20Testing&color=FF6C37&style=for-the-badge" alt="restapi"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/Playwright_API-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwrightapi"/>
 <img src="https://img.shields.io/badge/API_Mocking-FF6C37?style=for-the-badge" alt="apimocking"/>
 </div>
 
@@ -216,23 +200,48 @@ E-commerce UI automation suite covering login, cart, and checkout flows.
 </td>
 <td valign="top" width="50%">
 
+<h3 align="center">☁️ Salesforce Testing</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="salescloud"/>
+<img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="servicecloud"/>
+<img src="https://img.shields.io/badge/Agentforce_Testing-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="agentforce"/>
+<img src="https://img.shields.io/badge/Topics_%26_Actions-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="topicsactions"/>
+<img src="https://img.shields.io/badge/Utterances-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="utterances"/>
+<img src="https://img.shields.io/badge/Testing_Center-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="testingcenter"/>
+<img src="https://img.shields.io/badge/Subagents-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="subagents"/>
+<img src="https://img.shields.io/badge/CRM_%26_CPQ_Testing-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="crmcpq"/>
+<img src="https://img.shields.io/badge/Case_Management-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="casemanagement"/>
+</div>
+
+<h3 align="center">🧭 Testing Expertise</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Functional_Testing-455A64?style=for-the-badge" alt="functional"/>
+<img src="https://img.shields.io/badge/Regression_Testing-455A64?style=for-the-badge" alt="regression"/>
+<img src="https://img.shields.io/badge/Exploratory_Testing-455A64?style=for-the-badge" alt="exploratory"/>
+<img src="https://img.shields.io/badge/Mobile_App_Testing-455A64?style=for-the-badge" alt="mobile"/>
+<img src="https://img.shields.io/badge/Responsive_Testing-455A64?style=for-the-badge" alt="responsive"/>
+<img src="https://img.shields.io/badge/Risk--Based_Testing-455A64?style=for-the-badge" alt="riskbased"/>
+</div>
+
 <h3 align="center">⚙️ CI/CD & DevOps</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="powerautomate"/>
 </div>
 
-<h3 align="center">📊 Reporting & Test Management</h3>
+<h3 align="center">📊 Reporting & Analytics</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
 <img src="https://img.shields.io/badge/Playwright_Trace_Viewer-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="tracer"/>
 <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="newman"/>
+</div>
+
+<h3 align="center">📋 Test Management</h3>
+<div align="center">
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 <img src="https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuretestplans"/>
-<img src="https://img.shields.io/badge/TestRail-6FC0DA?style=for-the-badge" alt="testrail"/>
 </div>
 
 <h3 align="center">🗄️ Databases & Version Control</h3>
@@ -246,12 +255,11 @@ E-commerce UI automation suite covering login, cart, and checkout flows.
 </tr>
 </table>
 
-<h3 align="center">📋 Methodologies</h3>
+<h3 align="center">🔄 Methodologies</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Agile%2FScrum-6DB33F?style=for-the-badge" alt="agile"/>
 <img src="https://img.shields.io/badge/SAFe-6DB33F?style=for-the-badge" alt="safe"/>
 <img src="https://img.shields.io/badge/Shift--Left_Testing-6DB33F?style=for-the-badge" alt="shiftleft"/>
-<img src="https://img.shields.io/badge/Risk--Based_Testing-6DB33F?style=for-the-badge" alt="riskbased"/>
 </div>
 
 ---
