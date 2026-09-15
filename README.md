@@ -50,7 +50,7 @@
 ### 🧠 [QAVentra - Where QA Knowledge Lives](https://github.com/nancybhardwaj89/QAVentra-Where-QA-Knowledge-Lives)
 A self-hosted, multi-source Hybrid RAG system giving QA engineers one cited answer grounded across Selenium/Playwright framework repos, a 5,000+ test case repository, JIRA tickets, PRDs/BRDs/SRSs, meeting notes, and Jenkins logs — with metadata-aware retrieval, hourly auto-ingestion with deletion handling, and an MCP server exposing the assistant as tools for team-wide use.
 
-`RAG` `Qdrant` `Groq` `FastAPI` `MCP` `Hybrid Search` `Reranking` `Docker`
+`RAG` `Qdrant` `Groq` `FastAPI` `MCP` `Hybrid Search` `Reranking` `DeepEval` `Docker`
 
 </td>
 <td width="50%" valign="top">
